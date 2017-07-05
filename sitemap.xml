@@ -3,29 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://raw.githubusercontent.com/chaopolis/chaopolis.github.io/master/post/motivation/</loc>
+    <loc>/post/motivation/</loc>
     <lastmod>2017-07-05T07:30:11+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://raw.githubusercontent.com/chaopolis/chaopolis.github.io/master/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://raw.githubusercontent.com/chaopolis/chaopolis.github.io/master/</loc>
-    <lastmod>2017-07-05T07:30:11+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://raw.githubusercontent.com/chaopolis/chaopolis.github.io/master/post/</loc>
+    <loc>/</loc>
     <lastmod>2017-07-05T07:30:11+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://raw.githubusercontent.com/chaopolis/chaopolis.github.io/master/tags/</loc>
+    <loc>/post/</loc>
+    <lastmod>2017-07-05T07:30:11+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   
