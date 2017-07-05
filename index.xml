@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chaopolis</title>
-    <link>http://chaopolis.github.io/</link>
+    <link>http://github.com/chaopolis/chaopolis.github.io/</link>
     <description>Recent content on Chaopolis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 05 Jul 2017 07:30:11 +0900</lastBuildDate>
     
-	<atom:link href="http://chaopolis.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://github.com/chaopolis/chaopolis.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Motivation</title>
-      <link>http://chaopolis.github.io/post/motivation/</link>
+      <link>http://github.com/chaopolis/chaopolis.github.io/post/motivation/</link>
       <pubDate>Wed, 05 Jul 2017 07:30:11 +0900</pubDate>
       
-      <guid>http://chaopolis.github.io/post/motivation/</guid>
+      <guid>http://github.com/chaopolis/chaopolis.github.io/post/motivation/</guid>
       <description>This is my third post.</description>
     </item>
     
