@@ -7,7 +7,7 @@ Description: In 2014, our default theme lets you create a responsive magazine we
 Version: 1.2
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Tags: black, green, white, light, dark, two-columns, three-columns, left-sidebar, right-sidebar, fixed-layout, responsive-layout, custom-background, custom-header, custom-menu, editor-style, featured-images, flexible-header, full-width-template, microformats, post-formats, rtl-language-support, sticky-post, theme-options, translation-ready, accessibility-ready
+Tags: black, yellow, white, light, dark, two-columns, three-columns, left-sidebar, right-sidebar, fixed-layout, responsive-layout, custom-background, custom-header, custom-menu, editor-style, featured-images, flexible-header, full-width-template, microformats, post-formats, rtl-language-support, sticky-post, theme-options, translation-ready, accessibility-ready
 Text Domain: twentyfourteen
 
 This theme, like WordPress, is licensed under the GPL.
@@ -116,7 +116,7 @@ body {
 }
 
 a {
-	color: #24890d;
+	color: #b09000;
 	text-decoration: none;
 }
 
@@ -131,7 +131,7 @@ a:active {
 
 a:active,
 a:hover {
-	color: #41a62a;
+	color: #704000;
 }
 
 h1,
@@ -462,13 +462,13 @@ hr {
  * to achieve a better experience. See http://core.trac.wordpress.org/ticket/25898.
  */
 ::selection {
-	background: #24890d;
+	background: #757500;
 	color: #fff;
 	text-shadow: none;
 }
 
 ::-moz-selection {
-	background: #24890d;
+	background: #757500;
 	color: #fff;
 	text-shadow: none;
 }
@@ -506,7 +506,7 @@ button,
 input[type="button"],
 input[type="reset"],
 input[type="submit"] {
-	background-color: #24890d;
+	background-color: dddd20;
 	border: 0;
 	border-radius: 2px;
 	color: #fff;
@@ -527,7 +527,7 @@ input[type="reset"]:hover,
 input[type="reset"]:focus,
 input[type="submit"]:hover,
 input[type="submit"]:focus {
-	background-color: #41a62a;
+	background-color: #a6a12a;
 	color: #fff;
 }
 
@@ -536,7 +536,7 @@ button:active,
 input[type="button"]:active,
 input[type="reset"]:active,
 input[type="submit"]:active {
-	background-color: #55d737;
+	background-color: #d1c437;
 }
 
 .search-field {
@@ -881,7 +881,7 @@ span + .edit-link:before,
 /* Search in the header */
 
 .search-toggle {
-	background-color: #24890d;
+	background-color: #dddd20;
 	cursor: pointer;
 	float: right;
 	height: 48px;
@@ -892,7 +892,7 @@ span + .edit-link:before,
 
 .search-toggle:hover,
 .search-toggle.active {
-	background-color: #41a62a;
+	background-color: #c5c540;
 }
 
 .search-toggle:before {
@@ -918,7 +918,7 @@ span + .edit-link:before,
 }
 
 .search-box {
-	background-color: #41a62a;
+	background-color: #c5c540;
 	padding: 12px;
 }
 
@@ -957,14 +957,14 @@ span + .edit-link:before,
 }
 
 .site-navigation a:hover {
-	color: #41a62a;
+	color: #c5c540;
 }
 
 .site-navigation .current_page_item > a,
 .site-navigation .current_page_ancestor > a,
 .site-navigation .current-menu-item > a,
 .site-navigation .current-menu-ancestor > a {
-	color: #55d737;
+	color: #d4d737;
 	font-weight: 900;
 }
 
@@ -1114,7 +1114,7 @@ a.post-thumbnail:hover {
 }
 
 .entry-title a:hover {
-	color: #41a62a;
+	color: #c5c540;
 }
 
 .site-content .entry-header {
@@ -1146,7 +1146,7 @@ a.post-thumbnail:hover {
 }
 
 .entry-meta a:hover {
-	color: #41a62a;
+	color: #c5c540;
 }
 
 .sticky .entry-date {
@@ -1163,7 +1163,7 @@ a.post-thumbnail:hover {
 }
 
 .cat-links a:hover {
-	color: #41a62a;
+	color: #c5c540;
 }
 
 .byline {
@@ -1202,7 +1202,7 @@ a.post-thumbnail:hover {
 }
 
 .entry-meta .tag-links a:hover {
-	background-color: #41a62a;
+	background-color: #c5c540;
 	color: #fff;
 }
 
@@ -1219,7 +1219,7 @@ a.post-thumbnail:hover {
 }
 
 .entry-meta .tag-links a:hover:before {
-	border-right-color: #41a62a;
+	border-right-color: #c5c540;
 }
 
 .entry-meta .tag-links a:after {
@@ -1333,7 +1333,7 @@ a.post-thumbnail:hover {
 }
 
 .entry-content .edit-link a:hover {
-	color: #41a62a;
+	color: #c5c540;
 }
 
 /* Mediaelements */
@@ -1353,7 +1353,7 @@ a.post-thumbnail:hover {
 }
 
 .hentry .mejs-controls .mejs-time-rail .mejs-time-current {
-	background: #24890d;
+	background: #dddd20;
 }
 
 .hentry .mejs-controls .mejs-time-rail .mejs-time-total,
@@ -1440,12 +1440,12 @@ a.post-thumbnail:hover {
 }
 
 .hentry .mejs-overlay:hover .mejs-overlay-button {
-	background-color: #24890d;
+	background-color: #dddd20;
 	color: #fff;
 }
 
 .hentry .mejs-controls .mejs-button button:hover {
-	color: #41a62a;
+	color: #c5c540;
 }
 
 .content-sidebar .wp-playlist-item .wp-playlist-caption {
@@ -1482,8 +1482,8 @@ a.post-thumbnail:hover {
 }
 
 .page-links a:hover {
-	background: #41a62a;
-	border: 1px solid #41a62a;
+	background: #c5c540;
+	border: 1px solid #c5c540;
 	color: #fff;
 }
 
@@ -1693,7 +1693,7 @@ a.post-thumbnail:hover {
 
 .post-navigation a:hover,
 .image-navigation a:hover {
-	color: #41a62a;
+	color: #c5c540;
 }
 
 /* Paging Navigation */
@@ -1723,11 +1723,11 @@ a.post-thumbnail:hover {
 }
 
 .paging-navigation .page-numbers.current {
-	border-top: 5px solid #24890d;
+	border-top: 5px solid #dddd20;
 }
 
 .paging-navigation a:hover {
-	border-top: 5px solid #41a62a;
+	border-top: 5px solid #c5c540;
 	color: #2b2b2b;
 }
 
@@ -1949,7 +1949,7 @@ a.post-thumbnail:hover {
 .comment-list .pingback a:hover,
 .comment-list .trackback a:hover,
 .comment-metadata a:hover {
-	color: #41a62a;
+	color: #c5c540;
 }
 
 .comment-list article,
@@ -2107,7 +2107,7 @@ a.post-thumbnail:hover {
 }
 
 .comment-reply-title small a:hover {
-	color: #41a62a;
+	color: #c5c540;
 }
 
 .comment-reply-title small a:before {
@@ -2210,7 +2210,7 @@ a.post-thumbnail:hover {
 }
 
 .widget a:hover {
-	color: #41a62a;
+	color: #c5c540;
 }
 
 .widget h1,
@@ -2350,7 +2350,7 @@ a.post-thumbnail:hover {
 .widget input[type="button"],
 .widget input[type="reset"],
 .widget input[type="submit"] {
-	background-color: #24890d;
+	background-color: #89890d;
 	border: 0;
 	font-size: 12px;
 	padding: 5px 15px 4px;
@@ -2362,13 +2362,13 @@ a.post-thumbnail:hover {
 .widget input[type="reset"]:focus,
 .widget input[type="submit"]:hover,
 .widget input[type="submit"]:focus {
-	background-color: #41a62a;
+	background-color: #c5c540;
 }
 
 .widget input[type="button"]:active,
 .widget input[type="reset"]:active,
 .widget input[type="submit"]:active {
-	background-color: #55d737;
+	background-color: #d7d737;
 }
 
 .widget .wp-caption {
@@ -2390,7 +2390,7 @@ a.post-thumbnail:hover {
 }
 
 .widget-title a:hover {
-	color: #41a62a;
+	color: #c5c540;
 }
 
 /* Calendar Widget*/
@@ -2419,13 +2419,13 @@ a.post-thumbnail:hover {
 }
 
 .widget_calendar tbody a {
-	background-color: #24890d;
+	background-color: #dddd20;
 	color: #fff;
 	display: block;
 }
 
 .widget_calendar tbody a:hover {
-	background-color: #41a62a;
+	background-color: #c5c540;
 }
 
 .widget_calendar tbody a:hover {
@@ -2477,7 +2477,7 @@ a.post-thumbnail:hover {
 }
 
 .widget_twentyfourteen_ephemera .entry-meta a:hover {
-	color: #41a62a;
+	color: #c5c540;
 }
 
 .widget_twentyfourteen_ephemera .entry-content ul,
@@ -2587,11 +2587,11 @@ a.post-thumbnail:hover {
  */
 
 .content-sidebar .widget a {
-	color: #24890d;
+	color: #dddd20;
 }
 
 .content-sidebar .widget a:hover {
-	color: #41a62a;
+	color: #c5c540;
 }
 
 .content-sidebar .widget pre {
@@ -2653,7 +2653,7 @@ a.post-thumbnail:hover {
 .content-sidebar .widget input[type="button"],
 .content-sidebar .widget input[type="reset"],
 .content-sidebar .widget input[type="submit"] {
-	background-color: #24890d;
+	background-color: #dddd20;
 	border: 0;
 	color: #fff;
 }
@@ -2664,13 +2664,13 @@ a.post-thumbnail:hover {
 .content-sidebar .widget input[type="reset"]:focus,
 .content-sidebar .widget input[type="submit"]:hover,
 .content-sidebar .widget input[type="submit"]:focus {
-	background-color: #41a62a;
+	background-color: #c5c540;
 }
 
 .content-sidebar .widget input[type="button"]:active,
 .content-sidebar .widget input[type="reset"]:active,
 .content-sidebar .widget input[type="submit"]:active {
-	background-color: #55d737;
+	background-color: #d7d737;
 }
 
 .content-sidebar .widget .wp-caption {
@@ -2692,7 +2692,7 @@ a.post-thumbnail:hover {
 }
 
 .content-sidebar .widget .widget-title a:hover {
-	color: #41a62a;
+	color: #c5c540;
 }
 
 /* List Style Widgets*/
@@ -2785,7 +2785,7 @@ a.post-thumbnail:hover {
 }
 
 .content-sidebar .widget_twentyfourteen_ephemera .entry-meta a:hover {
-	color: #41a62a;
+	color: #c5c540;
 }
 
 .content-sidebar.widget_twentyfourteen_ephemera blockquote cite {
@@ -2833,7 +2833,7 @@ a.post-thumbnail:hover {
 }
 
 .site-info a:hover {
-	color: #41a62a;
+	color: #c5c540;
 }
 
 
@@ -2895,7 +2895,7 @@ a.post-thumbnail:hover {
 }
 
 .featured-content a:hover {
-	color: #41a62a;
+	color: #c5c540;
 }
 
 .featured-content .entry-meta {
@@ -2973,12 +2973,12 @@ a.post-thumbnail:hover {
 }
 
 .slider-control-paging a:hover:before {
-	background-color: #41a62a;
+	background-color: #c5c540;
 }
 
 .slider-control-paging .slider-active:before,
 .slider-control-paging .slider-active:hover:before {
-	background-color: #24890d;
+	background-color: #dddd20;
 }
 
 .slider-direction-nav {
@@ -3014,7 +3014,7 @@ a.post-thumbnail:hover {
 }
 
 .slider-direction-nav a:hover {
-	background-color: #24890d;
+	background-color: #dddd20;
 }
 
 .slider-direction-nav a:before {
@@ -3501,7 +3501,7 @@ a.post-thumbnail:hover {
 	}
 
 	.primary-navigation ul ul {
-		background-color: #24890d;
+		background-color: #dddd20;
 		float: left;
 		margin: 0;
 		position: absolute;
@@ -3530,13 +3530,13 @@ a.post-thumbnail:hover {
 
 	.primary-navigation li:hover > a,
 	.primary-navigation li.focus > a {
-		background-color: #24890d;
+		background-color: #dddd20;
 		color: #fff;
 	}
 
 	.primary-navigation ul ul a:hover,
 	.primary-navigation ul ul li.focus > a {
-		background-color: #41a62a;
+		background-color: #c5c540;
 	}
 
 	.primary-navigation ul li:hover > ul,
@@ -3756,7 +3756,7 @@ a.post-thumbnail:hover {
 	}
 
 	.secondary-navigation ul ul {
-		background-color: #24890d;
+		background-color: #dddd20;
 		position: absolute;
 		top: 0;
 		left: -999em;
@@ -3770,13 +3770,13 @@ a.post-thumbnail:hover {
 
 	.secondary-navigation li:hover > a,
 	.secondary-navigation li.focus > a {
-		background-color: #24890d;
+		background-color: #dddd20;
 		color: #fff;
 	}
 
 	.secondary-navigation ul ul a:hover,
 	.secondary-navigation ul ul li.focus > a {
-		background-color: #41a62a;
+		background-color: #c5c540;
 	}
 
 	.secondary-navigation ul li:hover > ul,

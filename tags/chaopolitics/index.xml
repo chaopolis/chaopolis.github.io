@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chaopolitics on Chaopolis</title>
+    <link>/tags/chaopolitics/</link>
+    <description>Recent content in Chaopolitics on Chaopolis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Jul 2017 07:30:11 +0900</lastBuildDate>
+    
+	<atom:link href="/tags/chaopolitics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Motivation</title>
+      <link>/post/motivation/</link>
+      <pubDate>Wed, 05 Jul 2017 07:30:11 +0900</pubDate>
+      
+      <guid>/post/motivation/</guid>
+      <description>This is my third post.</description>
+    </item>
+    
+  </channel>
+</rss>
