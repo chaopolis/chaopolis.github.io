@@ -6,27 +6,21 @@
     <description>Recent content in Posts on Chaopolis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 08 Jul 2017 16:07:19 +0900</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title></title>
+      <title>NEATL Theory 1: Introducing Neuroeconomics</title>
       <link>/post/neatl1-theory/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 08 Jul 2017 16:07:19 +0900</pubDate>
       
       <guid>/post/neatl1-theory/</guid>
-      <description>&lt;p&gt;&amp;ndash;
-title: &amp;ldquo;NEATL Theory 1: Introducing Neuroeconomics&amp;rdquo;
-date: 2017-07-08T16:07:19+09:00
-draft: false
-categories: [ &amp;ldquo;Theory&amp;rdquo; ]&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;I. Motivations and Goals of NEATL Theory&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;tags-neatl-theory-cognitive-linguistics-cognitive-science&#34;&gt;tags: [ &amp;ldquo;neatl theory&amp;rdquo;, &amp;ldquo;cognitive linguistics&amp;rdquo;, &amp;ldquo;cognitive science&amp;rdquo; ]&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;I. Motivations and Goals of NEATL Theory&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;A Neuroeconomic Approach to Language, what I&amp;rsquo;ll call NEATL Theory, is a number of combined ideas. Most simply, it is an attempt to model and explain
+&lt;p&gt;A Neuroeconomic Approach to Language, what I&amp;rsquo;ll call NEATL Theory, is a theory or set of ideas about the neurophysiology of volitional action,
+language in particular. It combines a number of ideas. Most simply, it is an attempt to model and explain
 the mechanics of language through the structures, concepts, and approaches of neuroeconomics, a field developed by Paul Glimcher and others.
 Neuroeconomics is &amp;ndash; to start with a grossly oversimplifying gist &amp;ndash; a framework using the structure and mechanics of
 &amp;ldquo;decision-making&amp;rdquo; cortical maps and their support mechanisms (most importantly meta-action maps) to manifest (and thereby explain) voluntary action

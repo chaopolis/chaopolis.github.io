@@ -6,18 +6,25 @@
     <description>Recent content in Theory on Chaopolis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Jul 2017 07:30:11 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 08 Jul 2017 16:07:19 +0900</lastBuildDate>
     
 	<atom:link href="/categories/theory/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Motivation</title>
-      <link>/post/motivation/</link>
-      <pubDate>Wed, 05 Jul 2017 07:30:11 +0900</pubDate>
+      <title>NEATL Theory 1: Introducing Neuroeconomics</title>
+      <link>/post/neatl1-theory/</link>
+      <pubDate>Sat, 08 Jul 2017 16:07:19 +0900</pubDate>
       
-      <guid>/post/motivation/</guid>
-      <description>This is my third post.</description>
+      <guid>/post/neatl1-theory/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;I. Motivations and Goals of NEATL Theory&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;A Neuroeconomic Approach to Language, what I&amp;rsquo;ll call NEATL Theory, is a theory or set of ideas about the neurophysiology of volitional action,
+language in particular. It combines a number of ideas. Most simply, it is an attempt to model and explain
+the mechanics of language through the structures, concepts, and approaches of neuroeconomics, a field developed by Paul Glimcher and others.
+Neuroeconomics is &amp;ndash; to start with a grossly oversimplifying gist &amp;ndash; a framework using the structure and mechanics of
+&amp;ldquo;decision-making&amp;rdquo; cortical maps and their support mechanisms (most importantly meta-action maps) to manifest (and thereby explain) voluntary action
+of humans and animals and the (internal) structures and conditions under which it operates.&lt;/p&gt;</description>
     </item>
     
   </channel>
