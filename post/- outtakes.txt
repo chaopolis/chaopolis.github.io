@@ -1,0 +1,27 @@
+from assurance we'll have a complete map of the brain and indistinguishably-human AI 
+within the decade to worry that we don't even understand 
+the most basic organization and functioning of the brain as it relates to human behavior. 
+
+
+
+
+
+
+
+Crisis of cognitive science & psychology
+and what this theory thinks it's doing
+It's an exercise in constructing a system based on principles, Einstein GR style. 
+trying to build a self-contained system to fit empirical work in.
+It's a way of thinking more than a working theory, just by the nature of the field. There's no way around it.
+
+
+
+[[At the most basic level, Glimcher’s model focuses on mechanisms in the business of making final decisions within the modality of their type of action. 
+There are a few features to point out about these mechanisms.
+Glimcher's model locates them across cortical maps of a special kind, the ones operating in between the chain from afferent maps (perception) to efferent maps (action). 
+Glimcher's work focuses on the maps making up the links between visual processing and eye saccadic action processing,
+so I'll use that too.]]
+[[In his 2004 book, Decisions, Uncertainty, and the Brain, Glimcher spoke of the decision-making mechanisms as “middle mechanisms”, neither afferent nor efferent, but in a special space in between, this being one of their important characteristic features. […]
+This means there should not be an alternative route to action, unless it is another of this type of mechanism adding to or redundantly repeating the same kind of work it does. This by itself is a quite consequential observation. 
+It means the modules serving as the deciders of action are managed by mechanisms operating by the mechanical modality of action (in the “topographic” sense mentioned above of eye saccades, reaching one’s hand out and in, traversing terrain, etc.), not, e.g., by functional modality (e.g., language, fighting, fleeing, sex, etc.) This point by itself directly targets theories which attempt to build a theory of human action and decision-making outside action and decision-making systems. 
+Of course human and other animal action has these types of functional modalities, but within the framework as Glimcher has set out, their contribution has to come from previous mechanisms which pass their instructions along to “decision” mechanisms, so that they are manifest within the mechanical modality of whatever action systems they are acting through, even for complex actions involving multi-modal coordination among several action systems. We will talk about the relationship between decision-making and action coordination more later. 

@@ -819,7 +819,7 @@ span + .edit-link:before,
 
 .site {
 	background-color: #fff;
-	max-width: 1260px;
+	max-width: 1260px; /*try 2260px?*/
 	position: relative;
 }
 
@@ -1050,7 +1050,7 @@ span + .edit-link:before,
 
 .hentry {
 	margin: 0 auto 48px;
-	max-width: 672px;
+	max-width: 750px; /* main page width, original 672px */
 }
 
 .site-content .entry-header,
@@ -1059,7 +1059,7 @@ span + .edit-link:before,
 .site-content .entry-meta,
 .page-content {
 	margin: 0 auto;
-	max-width: 474px;
+	max-width: 750px; /* content page width, original 474px */
 }
 
 .page-content {

@@ -3,12 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/post/caveat/</loc>
+  </url>
+  
+  <url>
+    <loc>/post/cortical_maps_in_development/</loc>
+  </url>
+  
+  <url>
+    <loc>/post/free_wll/</loc>
+  </url>
+  
+  <url>
+    <loc>/post/intentionality/</loc>
+  </url>
+  
+  <url>
+    <loc>/post/neatl1-theory/</loc>
+  </url>
+  
+  <url>
+    <loc>/post/world_rep/</loc>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
     <priority>0</priority>
   </url>
   

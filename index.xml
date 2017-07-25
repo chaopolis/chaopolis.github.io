@@ -10,5 +10,77 @@
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title></title>
+      <link>/post/caveat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/caveat/</guid>
+      <description>The history of cognitive science, and the &amp;ldquo;human sciences&amp;rdquo; generally, vacillates between overconfidence bordering on delusion to crises of confidence that chill work in the field, at least to the extent they claim any explanation in the mechanics of the mind and not statistical generalities in narrow domains. Looking at the tenor of the literature and reading a number of cartographers of the fields, we are presently in the downswing of third generation cognitive science that started with the computer revolution and a burst of optimism in the 1990s.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/post/cortical_maps_in_development/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/cortical_maps_in_development/</guid>
+      <description>First, some notes on cortical maps. In cognitive development textbooks, the story is that these maps grow out of projections of the thalamus.
+The thalamus is known as the Grand Central Station of perceptual information, directing signals from the senses to cortical maps which process them into forms the decision-making maps (the ones we care about here) can operate on to plan and trigger action. The thalamus has a map of the information space for each sense &amp;ldquo;drawn&amp;rdquo; on its surface.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/post/free_wll/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/free_wll/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/post/intentionality/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/intentionality/</guid>
+      <description>Intentionality
+Intentionality is the property in language (or other meaningful actions) by which words and phrases are about to things (situations, events) in the world. It&amp;rsquo;s the &amp;ldquo;aboutness&amp;rdquo; of a phrase or action.
+It&amp;rsquo;s what makes the word &amp;ldquo;rock&amp;rdquo; in a normal English sentence about a rock and not, say, an orange.
+There are a number of approaches philosophers have used to understand what exactly intentionality is and how it works.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/post/neatl1-theory/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/neatl1-theory/</guid>
+      <description>&lt;p&gt;&amp;ndash;
+title: &amp;ldquo;NEATL Theory 1: Introducing Neuroeconomics&amp;rdquo;
+date: 2017-07-08T16:07:19+09:00
+draft: false
+categories: [ &amp;ldquo;Theory&amp;rdquo; ]&lt;/p&gt;
+
+&lt;h2 id=&#34;tags-neatl-theory-cognitive-linguistics-cognitive-science&#34;&gt;tags: [ &amp;ldquo;neatl theory&amp;rdquo;, &amp;ldquo;cognitive linguistics&amp;rdquo;, &amp;ldquo;cognitive science&amp;rdquo; ]&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;I. Motivations and Goals of NEATL Theory&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;A Neuroeconomic Approach to Language, what I&amp;rsquo;ll call NEATL Theory, is a number of combined ideas. Most simply, it is an attempt to model and explain
+the mechanics of language through the structures, concepts, and approaches of neuroeconomics, a field developed by Paul Glimcher and others.
+Neuroeconomics is &amp;ndash; to start with a grossly oversimplifying gist &amp;ndash; a framework using the structure and mechanics of
+&amp;ldquo;decision-making&amp;rdquo; cortical maps and their support mechanisms (most importantly meta-action maps) to manifest (and thereby explain) voluntary action
+of humans and animals and the (internal) structures and conditions under which it operates.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/post/world_rep/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/post/world_rep/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
