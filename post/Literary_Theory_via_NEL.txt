@@ -1,0 +1,20 @@
+---
+title: "Literary Criticism and Theory in the Shadow of Neurolinguistics"
+date: 2017-07-08T16:07:19+09:00
+draft: false
+categories: [ "Theory" ]
+tags: [ "criticism", "neurolinguistics", "cognitive linguistics", "cognitive science" ]
+---
+
+A curious side-literature has grown in recent years around applying or subjecting literary theory 
+and criticism to some of the insights from the cognitive sciences, including on language. 
+
+In introducing the topic, there are some immediate caveats one wants to make.
+The cognitive sciences and cognitive linguistics are fragmented, not well established,
+and in any event not well structured or in a framework in which people wanting to apply 
+it to issues in the humanities or literary theory know how to operate. 
+
+
+
+Like many popular treatments of cognitive sciences, even people in the field when they try to apply 
+
